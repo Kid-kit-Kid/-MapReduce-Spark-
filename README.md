@@ -25,7 +25,7 @@
 
 MapReduce的CPU占用率、实际内存使用、磁盘读写速度变化图像：
 
-![图片2](C:\Users\kid\Desktop\图片2.png)
+!([C:\Users\kid\Desktop\图片2.png](https://github.com/Kid-kit-Kid/-MapReduce-Spark-/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%871.png))
 
 Spark的CPU占用率、实际内存使用、磁盘读写速度变化图像：
 
