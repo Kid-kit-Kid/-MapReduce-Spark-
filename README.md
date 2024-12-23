@@ -36,7 +36,6 @@ Spark的CPU占用率、实际内存使用、磁盘读写速度变化图像：
 
 #### Spark在70MB数据集上在不同内存分配下的运行时长对比
 
-![图片6](https://github.com/Kid-kit-Kid/-MapReduce-Spark-/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%876.png width=)
 <img src="https://github.com/Kid-kit-Kid/-MapReduce-Spark-/blob/main/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%876" alt="%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%876" style="zoom:50%;" />
 
 由于70MB数据集过小，即使内存设置为最小值512M，计算时间已经饱和，后续优化效果不够明显。
